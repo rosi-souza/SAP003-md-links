@@ -1,4 +1,4 @@
-const mdLinks = require("../src/index.js");
+const mdLinks = require("../lib/index.js");
 
 const fileTest = [
   { text: "Markdown", href: "https://pt.wikipedia.org/wiki/Markdown" },
