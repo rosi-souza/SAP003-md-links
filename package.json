@@ -1,0 +1,25 @@
+{
+  "name": "sap003-md-links",
+  "version": "1.0.0",
+  "description": "## Índice",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosi-souza/SAP003-md-links.git"
+  },
+  "bin": {
+    "sap003-md-links": "src/cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosi-souza/SAP003-md-links/issues"
+  },
+  "homepage": "https://github.com/rosi-souza/SAP003-md-links#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
